@@ -1,0 +1,6 @@
+{
+    "com.webos.test": [
+        "database.internal"
+        "database"
+    ]
+}

@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.webos.test
+Exec=@WEBOS_INSTALL_SBINDIR@/com.webos.test
+Type=static

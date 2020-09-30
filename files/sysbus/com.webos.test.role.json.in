@@ -1,0 +1,15 @@
+{
+    "exeName":"@WEBOS_INSTALL_SBINDIR@/com.webos.test",
+    "type": "regular",
+    "allowedNames": [
+        "com.webos.test"
+    ],
+    "permissions": [
+        {
+            "service":"com.webos.test",
+            "outbound":[
+                "*"
+            ]
+        }
+    ]
+}
